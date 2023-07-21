@@ -1,0 +1,17 @@
+@custom-media --mobile (width < 768px);
+
+:root {
+  --white: #fff;
+  --black: #000;
+
+  --color: var(--gray-600);
+  --link-color: var(--primary-700);
+
+  color: var(--color);
+  overflow-x: hidden;
+}
+
+:link {
+  color: var(--link-color);
+}
+

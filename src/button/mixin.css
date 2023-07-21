@@ -1,0 +1,20 @@
+@define-mixin button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  border-radius: 8px;
+  padding: 12px 20px;
+
+  background: var(--primary-600);
+  color: var(--white);
+
+  font-weight: 600;
+  text-decoration: none;
+
+  &:hover {
+    transition: 0.2s background;
+    background: var(--primary-700);
+  }
+}
+
