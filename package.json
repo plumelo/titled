@@ -4,7 +4,7 @@
   "description": "A simple collection of CSS mixin and utilitites.",
   "author": "Iulian Meghea <iulian@plumelo.com>",
   "license": "WTFPL",
-  "main": "src/index.js",
+  "main": "src/index.css",
   "release": {
     "plugins": [
       "@semantic-release/commit-analyzer",
