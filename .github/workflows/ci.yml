@@ -38,11 +38,6 @@ jobs:
       - name: Test
         run: npm test --if-present
 
-      - name: Upload coverage
-        uses: codecov/codecov-action@v3
-        with:
-          token: ${{ secrets.CODECOV_TOKEN }}
-
       - name: Semantic release
         run: npx semantic-release
         if: success()
