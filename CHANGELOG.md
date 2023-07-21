@@ -1,3 +1,10 @@
+## [1.1.0](https://github.com/plumelo/titled/compare/v1.0.0...v1.1.0) (2023-07-21)
+
+
+### Features
+
+* update ([ba2ab77](https://github.com/plumelo/titled/commit/ba2ab771d9d78813727a2ac6948ea47d20991fae))
+
 ## 1.0.0 (2023-07-21)
 
 
