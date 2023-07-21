@@ -1,3 +1,10 @@
+## [1.2.0](https://github.com/plumelo/titled/compare/v1.1.0...v1.2.0) (2023-07-21)
+
+
+### Features
+
+* **typo:** cleanup font ([bcbf7fa](https://github.com/plumelo/titled/commit/bcbf7fa58b24d78e19a222ae718116a164016876))
+
 ## [1.1.0](https://github.com/plumelo/titled/compare/v1.0.0...v1.1.0) (2023-07-21)
 
 
