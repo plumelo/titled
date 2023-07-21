@@ -4,7 +4,7 @@
   "description": "A simple collection of CSS mixin and utilitites.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ls -al"
   },
   "author": "Iulian Meghea <iulian@plumelo.com>",
   "license": "WTFPL",
