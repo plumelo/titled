@@ -3,11 +3,11 @@ on:
   workflow_call:
   pull_request:
     branches:
-      - master
+      - main
   push:
     branches:
       - beta
-      - master
+      - main
 jobs:
   build:
     runs-on: ubuntu-latest
