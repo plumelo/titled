@@ -1,3 +1,10 @@
+## [1.4.0](https://github.com/plumelo/titled/compare/v1.3.0...v1.4.0) (2023-08-02)
+
+
+### Features
+
+* **button:** box-sizing ([e83befc](https://github.com/plumelo/titled/commit/e83befcf43543b5c47e24dd71cba9d86e0f45300))
+
 ## [1.3.0](https://github.com/plumelo/titled/compare/v1.2.1...v1.3.0) (2023-08-02)
 
 
