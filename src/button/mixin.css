@@ -12,6 +12,9 @@
   font-weight: 600;
   text-decoration: none;
 
+  cursor: pointer;
+  border: none;
+
   &:hover {
     transition: 0.2s background;
     background: var(--primary-700);
