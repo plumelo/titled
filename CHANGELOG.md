@@ -1,3 +1,10 @@
+## [1.3.0](https://github.com/plumelo/titled/compare/v1.2.1...v1.3.0) (2023-08-02)
+
+
+### Features
+
+* **button:** adjust ([eb4910e](https://github.com/plumelo/titled/commit/eb4910efd6a62f9a2600f149816c0ebc76735c51))
+
 ## [1.2.1](https://github.com/plumelo/titled/compare/v1.2.0...v1.2.1) (2023-08-02)
 
 
