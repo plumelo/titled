@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/plumelo/titled/compare/v1.2.0...v1.2.1) (2023-08-02)
+
+
+### Bug Fixes
+
+* **input:** import typo mixins ([0aca9b3](https://github.com/plumelo/titled/commit/0aca9b33b3a384217ddcb6152b7ba43ba65bc751))
+
 ## [1.2.0](https://github.com/plumelo/titled/compare/v1.1.0...v1.2.0) (2023-07-21)
 
 
