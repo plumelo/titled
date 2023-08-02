@@ -5,6 +5,7 @@
   gap: 8px;
   border-radius: 8px;
   padding: 12px 20px;
+  box-sizing: border-box;
 
   background: var(--primary-600);
   color: var(--white);
