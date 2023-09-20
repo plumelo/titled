@@ -1,3 +1,10 @@
+## [1.5.0](https://github.com/plumelo/titled/compare/v1.4.0...v1.5.0) (2023-09-20)
+
+
+### Features
+
+* **layout:** extract mixins ([a5cea76](https://github.com/plumelo/titled/commit/a5cea76b125034a7ebd9caa20e359e82e7b3e1c3))
+
 ## [1.4.0](https://github.com/plumelo/titled/compare/v1.3.0...v1.4.0) (2023-08-02)
 
 
