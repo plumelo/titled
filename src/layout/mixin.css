@@ -1,18 +1,10 @@
-:root {
-  --row-base: 1280px;
-  --row-margin: 32px;
-  @media (--mobile) {
-    --row-margin: 16px;
-  }
-}
-
-.row {
+@define-mixin row {
   width: calc(min(100%, var(--row-base)) - 2 * var(--row-margin));
   margin: 0 auto;
   position: relative;
 }
 
-.extbg {
+@define-mixin extbg {
   position: relative;
   --ext: calc((100% - 100vw) / 2);
   &::before,
@@ -34,4 +26,9 @@
     left: 100%;
     background: inherit;
   }
+}
+
+@define-mixin bgRow {
+  @mixin row;
+  @mixin extbg;
 }
