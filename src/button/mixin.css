@@ -12,6 +12,7 @@
 
   font-weight: 600;
   text-decoration: none;
+  font-family: inherit;
 
   cursor: pointer;
   border: none;
@@ -21,4 +22,3 @@
     background: var(--primary-700);
   }
 }
-
