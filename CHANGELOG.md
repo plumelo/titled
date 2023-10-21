@@ -1,3 +1,10 @@
+## [1.6.0](https://github.com/plumelo/titled/compare/v1.5.0...v1.6.0) (2023-10-21)
+
+
+### Features
+
+* **button:** inherit font-family ([ace6ba9](https://github.com/plumelo/titled/commit/ace6ba9d621fc3514b33093c9f1df81f8c066f01))
+
 ## [1.5.0](https://github.com/plumelo/titled/compare/v1.4.0...v1.5.0) (2023-09-20)
 
 
