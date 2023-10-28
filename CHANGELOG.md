@@ -1,3 +1,10 @@
+## [1.7.0](https://github.com/plumelo/titled/compare/v1.6.0...v1.7.0) (2023-10-28)
+
+
+### Features
+
+* **button:** inherit font-size ([c4b58c2](https://github.com/plumelo/titled/commit/c4b58c220b2918f9ab032da6b39ee63f4c822f00))
+
 ## [1.6.0](https://github.com/plumelo/titled/compare/v1.5.0...v1.6.0) (2023-10-21)
 
 
