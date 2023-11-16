@@ -1,3 +1,10 @@
+## [1.10.0](https://github.com/plumelo/titled/compare/v1.9.0...v1.10.0) (2023-11-16)
+
+
+### Features
+
+* restore mixins ([24d0043](https://github.com/plumelo/titled/commit/24d004354e096414616bd91b91b2985df9a4c99c))
+
 ## [1.9.0](https://github.com/plumelo/titled/compare/v1.8.0...v1.9.0) (2023-11-16)
 
 
