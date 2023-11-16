@@ -27,7 +27,6 @@
     "@commitlint/config-conventional": "^18",
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
-    "prettier": "^3.1.0",
     "semantic-release": "^22"
   }
 }
