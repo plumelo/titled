@@ -1,3 +1,10 @@
+## [1.8.0](https://github.com/plumelo/titled/compare/v1.7.0...v1.8.0) (2023-11-16)
+
+
+### Features
+
+* deprecate typo mixins ([8c2ed98](https://github.com/plumelo/titled/commit/8c2ed98e2369c7dacf047a5e3bc03a5a9d89c259))
+
 ## [1.7.0](https://github.com/plumelo/titled/compare/v1.6.0...v1.7.0) (2023-10-28)
 
 
