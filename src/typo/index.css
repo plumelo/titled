@@ -1,5 +1,3 @@
-@import "mixin.css";
-
 :root {
   --xl-size: 20px;
   --xl-lh: 1.5;
@@ -24,5 +22,6 @@
   --h-xs-size: 24px;
   --h-xs-lh: 32px;
 
-  @mixin text md;
+  font-size: var(--md-size);
+  line-height: var(--md-lh);
 }
