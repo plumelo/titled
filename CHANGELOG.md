@@ -1,3 +1,10 @@
+## [1.9.0](https://github.com/plumelo/titled/compare/v1.8.0...v1.9.0) (2023-11-16)
+
+
+### Features
+
+* stop using [@mixin](https://github.com/mixin) text ([af18f2e](https://github.com/plumelo/titled/commit/af18f2ee17f10ebced40bef17fc3251a2ccbc589))
+
 ## [1.8.0](https://github.com/plumelo/titled/compare/v1.7.0...v1.8.0) (2023-11-16)
 
 
