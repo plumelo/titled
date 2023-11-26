@@ -1,3 +1,10 @@
+## [1.11.0](https://github.com/plumelo/titled/compare/v1.10.0...v1.11.0) (2023-11-26)
+
+
+### Features
+
+* convert to lightningcss ([652b5e3](https://github.com/plumelo/titled/commit/652b5e30fffcb7eccee69adf445cddf5163f22b0))
+
 ## [1.10.0](https://github.com/plumelo/titled/compare/v1.9.0...v1.10.0) (2023-11-16)
 
 
