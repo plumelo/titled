@@ -7,13 +7,13 @@
 .btn--lg {
   gap: 12px;
   padding: 16px 28px;
-  @mixin text lg;
+  @text lg;
   line-height: 26px;
 }
 
 .btn--sm {
   padding: 8px 14px;
-  @mixin text sm;
+  @text sm;
 }
 
 .btn--sec {
