@@ -29,7 +29,7 @@ export const heading = (rule) =>
     },
     {
       property: "font-weight",
-      raw: 600,
+      raw: '600',
     },
   ]);
 
