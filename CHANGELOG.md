@@ -1,3 +1,10 @@
+## [1.13.1](https://github.com/plumelo/titled/compare/v1.13.0...v1.13.1) (2023-11-27)
+
+
+### Bug Fixes
+
+* **@heading:** correct font-weight param type ([5235891](https://github.com/plumelo/titled/commit/5235891dbc5606842b7aed9b78d70c5576e8acb6))
+
 ## [1.13.0](https://github.com/plumelo/titled/compare/v1.12.0...v1.13.0) (2023-11-27)
 
 
