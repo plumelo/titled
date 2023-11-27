@@ -27,6 +27,10 @@ export const heading = (rule) =>
       property: "letter-spacing",
       raw: `var(--${rule.prelude.value}-ls)`,
     },
+    {
+      property: "font-weight",
+      raw: 600,
+    },
   ]);
 
 export const customAtRules = {
