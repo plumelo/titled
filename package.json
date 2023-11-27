@@ -5,6 +5,7 @@
   "author": "Iulian Meghea <iulian@plumelo.com>",
   "license": "WTFPL",
   "main": "src/index.css",
+  "type": "module",
   "release": {
     "plugins": [
       "@semantic-release/commit-analyzer",
