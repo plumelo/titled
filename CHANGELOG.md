@@ -1,3 +1,10 @@
+## [1.12.0](https://github.com/plumelo/titled/compare/v1.11.0...v1.12.0) (2023-11-27)
+
+
+### Features
+
+* add type module ([df1eb8c](https://github.com/plumelo/titled/commit/df1eb8cd14dff267a57bca6677b8599218e3aacb))
+
 ## [1.11.0](https://github.com/plumelo/titled/compare/v1.10.0...v1.11.0) (2023-11-26)
 
 
