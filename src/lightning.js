@@ -22,7 +22,7 @@ const textDeclarations = (prefix) => [
 export const text = (rule) => block(textDeclarations(rule.prelude.value));
 export const heading = (rule) =>
   block([
-    ...textDeclarations(rule.prelude.value),
+    ...textDeclarations(`h-${rule.prelude.value}`),
     {
       property: "letter-spacing",
       raw: `var(--${rule.prelude.value}-ls)`,
