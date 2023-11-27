@@ -1,3 +1,10 @@
+## [1.13.2](https://github.com/plumelo/titled/compare/v1.13.1...v1.13.2) (2023-11-27)
+
+
+### Bug Fixes
+
+* **@heading:** correct size ([c03ad71](https://github.com/plumelo/titled/commit/c03ad71b72ff3ad519484692fdd1c938806d04e5))
+
 ## [1.13.1](https://github.com/plumelo/titled/compare/v1.13.0...v1.13.1) (2023-11-27)
 
 
