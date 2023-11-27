@@ -1,3 +1,10 @@
+## [1.13.0](https://github.com/plumelo/titled/compare/v1.12.0...v1.13.0) (2023-11-27)
+
+
+### Features
+
+* **@heading:** add font-weight ([a33bf0e](https://github.com/plumelo/titled/commit/a33bf0e08121835e4878c390d8e31b35cef0696b))
+
 ## [1.12.0](https://github.com/plumelo/titled/compare/v1.11.0...v1.12.0) (2023-11-27)
 
 
