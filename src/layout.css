@@ -1,3 +1,4 @@
+@import "row.css";
 :root {
   --row-base: 1280px;
   --row-margin: 32px;
@@ -5,4 +6,3 @@
     --row-margin: 16px;
   }
 }
-@import "row.css";
