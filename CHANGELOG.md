@@ -1,3 +1,10 @@
+## [2.1.1](https://github.com/plumelo/titled/compare/v2.1.0...v2.1.1) (2023-11-28)
+
+
+### Bug Fixes
+
+* hoist import ([c552041](https://github.com/plumelo/titled/commit/c552041e8e9ae9b7984182552b320c714ef53d93))
+
 ## [2.1.0](https://github.com/plumelo/titled/compare/v2.0.0...v2.1.0) (2023-11-28)
 
 
