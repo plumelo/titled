@@ -1,9 +1,0 @@
-@define-mixin text $size {
-  font-size: var(--$(size)-size);
-  line-height: var(--$(size)-lh);
-}
-@define-mixin heading $size, $weight: 600 {
-  @mixin text h-$(size);
-  letter-spacing: var(--h-$(size)-ls);
-  font-weight: $weight;
-}
