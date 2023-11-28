@@ -1,3 +1,15 @@
+## [2.0.0](https://github.com/plumelo/titled/compare/v1.13.2...v2.0.0) (2023-11-28)
+
+
+### ⚠ BREAKING CHANGES
+
+* Drop postcss support and remove mixins prefering a
+closer to native implementation.
+
+### Features
+
+* drop post css support ([303f814](https://github.com/plumelo/titled/commit/303f814a90fb0c1e8fb1d257f56d899a9941ce93))
+
 ## [1.13.2](https://github.com/plumelo/titled/compare/v1.13.1...v1.13.2) (2023-11-27)
 
 
