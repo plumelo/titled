@@ -1,3 +1,10 @@
+## [2.1.0](https://github.com/plumelo/titled/compare/v2.0.0...v2.1.0) (2023-11-28)
+
+
+### Features
+
+* separate row.css ([be4c749](https://github.com/plumelo/titled/commit/be4c749940e1b1b284c07b1d8c10b0c7dba7f78d))
+
 ## [2.0.0](https://github.com/plumelo/titled/compare/v1.13.2...v2.0.0) (2023-11-28)
 
 
