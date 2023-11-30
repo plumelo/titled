@@ -28,3 +28,8 @@
     background: inherit;
   }
 }
+
+.bgRow {
+  composes: row;
+  composes: exbg;
+}
