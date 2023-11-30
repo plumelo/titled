@@ -1,3 +1,10 @@
+## [2.2.0](https://github.com/plumelo/titled/compare/v2.1.1...v2.2.0) (2023-11-30)
+
+
+### Features
+
+* bgRow style ([88ace04](https://github.com/plumelo/titled/commit/88ace04d1c8a9851514fb1cb858fedf277d565b2))
+
 ## [2.1.1](https://github.com/plumelo/titled/compare/v2.1.0...v2.1.1) (2023-11-28)
 
 
