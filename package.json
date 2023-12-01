@@ -20,6 +20,13 @@
     ],
     "preset": "conventionalcommits"
   },
+  "exports": {
+    ".": "./src/index.css",
+    "./input": "./src/input.css",
+    "./button": "./src/layout.css",
+    "./row": "./src/row.css",
+    "./lightning": "./src/lightning.js"
+  },
   "publishConfig": {
     "access": "public"
   },

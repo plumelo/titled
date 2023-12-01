@@ -31,5 +31,5 @@
 
 .bgRow {
   composes: row;
-  composes: exbg;
+  composes: extbg;
 }
