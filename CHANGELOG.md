@@ -1,3 +1,10 @@
+## [2.4.0](https://github.com/plumelo/titled/compare/v2.3.0...v2.4.0) (2023-12-01)
+
+
+### Features
+
+* update exports ([c4bbde4](https://github.com/plumelo/titled/commit/c4bbde48161aceef8363bcb64b832947c62e182d))
+
 ## [2.3.0](https://github.com/plumelo/titled/compare/v2.2.0...v2.3.0) (2023-12-01)
 
 
