@@ -1,3 +1,10 @@
+## [2.3.0](https://github.com/plumelo/titled/compare/v2.2.0...v2.3.0) (2023-12-01)
+
+
+### Features
+
+* add exports ([379da20](https://github.com/plumelo/titled/commit/379da20f38e734f3e35cafe56fd76e027f74d1bc))
+
 ## [2.2.0](https://github.com/plumelo/titled/compare/v2.1.1...v2.2.0) (2023-11-30)
 
 
