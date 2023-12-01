@@ -23,7 +23,7 @@
   "exports": {
     ".": "./src/index.css",
     "./input": "./src/input.css",
-    "./button": "./src/layout.css",
+    "./button": "./src/button.css",
     "./row": "./src/row.css",
     "./lightning": "./src/lightning.js"
   },
