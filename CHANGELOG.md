@@ -1,3 +1,10 @@
+## [2.5.0](https://github.com/plumelo/titled/compare/v2.4.0...v2.5.0) (2024-02-08)
+
+
+### Features
+
+* correct compat ([e69e27f](https://github.com/plumelo/titled/commit/e69e27ff4535bad955e001545377f2e869ee78ca))
+
 ## [2.4.0](https://github.com/plumelo/titled/compare/v2.3.0...v2.4.0) (2023-12-01)
 
 
