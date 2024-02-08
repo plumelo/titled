@@ -25,7 +25,7 @@ export const heading = (rule) =>
     ...textDeclarations(`h-${rule.prelude.value}`),
     {
       property: "letter-spacing",
-      raw: `var(--${rule.prelude.value}-ls)`,
+      raw: `var(--h-${rule.prelude.value}-ls)`,
     },
     {
       property: "font-weight",

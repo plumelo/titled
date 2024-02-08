@@ -28,7 +28,9 @@
   gap: 12px;
   padding: 16px 28px;
   @text lg;
-  line-height: 26px;
+  & {
+    line-height: 26px;
+  }
 }
 
 .btn--sm {
@@ -46,4 +48,3 @@
     color: var(--gray-800);
   }
 }
-
