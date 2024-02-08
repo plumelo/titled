@@ -22,5 +22,6 @@
   --h-xs-size: 24px;
   --h-xs-lh: 32px;
 
-  @text md;
+  font-size: var(--md-size);
+  line-height: var(--md-lh);
 }

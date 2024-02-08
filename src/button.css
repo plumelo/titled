@@ -27,15 +27,14 @@
 .btn--lg {
   gap: 12px;
   padding: 16px 28px;
-  @text lg;
-  & {
-    line-height: 26px;
-  }
+  font-size: var(--lg-size);
+  line-height: 26px;
 }
 
 .btn--sm {
   padding: 8px 14px;
-  @text sm;
+  font-size: var(--sm-size);
+  line-height: var(--sm-lh);
 }
 
 .btn--sec {
