@@ -1,3 +1,10 @@
+## [2.6.0](https://github.com/plumelo/titled/compare/v2.5.0...v2.6.0) (2024-02-08)
+
+
+### Features
+
+* stop using [@text](https://github.com/text) and [@heading](https://github.com/heading) ([d1b6db3](https://github.com/plumelo/titled/commit/d1b6db38250ed1e582106b5212aade3e1d0874da)), closes [#5](https://github.com/plumelo/titled/issues/5)
+
 ## [2.5.0](https://github.com/plumelo/titled/compare/v2.4.0...v2.5.0) (2024-02-08)
 
 
