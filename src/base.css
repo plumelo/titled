@@ -1,4 +1,4 @@
-@custom-media --mobile (width < 768px);
+@import "./media.css";
 
 :root {
   --white: #fff;
@@ -14,4 +14,3 @@
 :link {
   color: var(--link-color);
 }
-

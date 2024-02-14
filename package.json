@@ -25,6 +25,7 @@
     "./input": "./src/input.css",
     "./button": "./src/button.css",
     "./row": "./src/row.css",
+    "./media": "./src/media.css",
     "./lightning": "./src/lightning.js"
   },
   "publishConfig": {
