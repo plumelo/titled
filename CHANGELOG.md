@@ -1,3 +1,10 @@
+## [2.7.0](https://github.com/plumelo/titled/compare/v2.6.0...v2.7.0) (2024-02-14)
+
+
+### Features
+
+* separate media.css ([c952cd9](https://github.com/plumelo/titled/commit/c952cd97926816d97ae509d96891888163c0c1e6))
+
 ## [2.6.0](https://github.com/plumelo/titled/compare/v2.5.0...v2.6.0) (2024-02-08)
 
 
