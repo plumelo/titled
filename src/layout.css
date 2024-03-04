@@ -2,6 +2,9 @@
 :root {
   --row-base: 1280px;
   --row-margin: 32px;
+  --row-width: calc(min(100vw, var(--row-base)) - 2 * var(--row-margin));
+  --row-ext: calc((var(--row-width) - 100vw) / 2);
+
   @media (--mobile) {
     --row-margin: 16px;
   }

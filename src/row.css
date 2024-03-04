@@ -1,13 +1,11 @@
 .row {
-  width: calc(min(100%, var(--row-base)) - 2 * var(--row-margin));
+  width: var(--row-width);
   margin: 0 auto;
   position: relative;
-
 }
 
 .extbg {
   position: relative;
-  --ext: calc((100% - 100vw) / 2);
   &::before,
   &::after {
     content: "";
@@ -18,12 +16,12 @@
   }
 
   &::before {
-    left: var(--ext);
+    left: var(--row-ext);
     right: 100%;
     background: inherit;
   }
   &::after {
-    right: var(--ext);
+    right: var(--row-ext);
     left: 100%;
     background: inherit;
   }
