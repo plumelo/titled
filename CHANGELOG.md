@@ -1,3 +1,10 @@
+## [2.8.0](https://github.com/plumelo/titled/compare/v2.7.0...v2.8.0) (2024-03-04)
+
+
+### Features
+
+* **layout:** update row variables ([9426fca](https://github.com/plumelo/titled/commit/9426fca528fa1eea690cb48da10e49d4b75997c2))
+
 ## [2.7.0](https://github.com/plumelo/titled/compare/v2.6.0...v2.7.0) (2024-02-14)
 
 
