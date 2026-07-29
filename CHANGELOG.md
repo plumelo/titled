@@ -1,3 +1,5 @@
+## [2.8.1](https://github.com/plumelo/titled/compare/v2.8.0...v2.8.1) (2026-07-29)
+
 ## [2.8.0](https://github.com/plumelo/titled/compare/v2.7.0...v2.8.0) (2024-03-04)
 
 
