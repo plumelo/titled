@@ -41,6 +41,6 @@
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
     "prettier": "^3.2.5",
-    "semantic-release": "^22"
+    "semantic-release": "^25"
   }
 }
